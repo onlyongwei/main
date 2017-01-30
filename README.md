@@ -1,9 +1,9 @@
 # main
 anything that I want to write
-## maybe someday i will forget how to use git
-this is the reason I creat this repositories
-## this file is the process I learn markdown
-when you see this, just forget it
+## Maybe someday i will forget how to use git
+This is the reason I creat this repositories
+## This file is the process I learn markdown
+When you see this, just forget it
 新起一行
 ---------------
 >怎么改变字体的大小？
@@ -40,6 +40,8 @@ when you see this, just forget it
 + wang
 + zhao
 
+--------
+
 1. chen
 2. zhao
 3. li
@@ -55,3 +57,8 @@ when you see this, just forget it
 
 -----
 learn markdown  2017 01 29
+
+learn markdown 2017-01-30 begin
+-----------------------
+>这是一个新的block，.
+>为什么我新起一行还是这样子?

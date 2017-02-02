@@ -8,7 +8,7 @@
 
 好无语LLL。
 
-![小黄人]: http://okqp59hwu.bkt.clouddn.com/%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg	"怎么会这样啊"
+![小黄人](http://okqp59hwu.bkt.clouddn.com/%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg)
 
 这样可以了吗？
 

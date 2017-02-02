@@ -10,7 +10,6 @@
 
 ![小黄人](http://okqp59hwu.bkt.clouddn.com/%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg)
 
-这样可以了吗？
-
-为什么没有图片，显示出来呢？
-
+why this software don't support Chinese?
+I can't use Chinese to edit this file.
+Holy shit!

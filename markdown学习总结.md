@@ -38,6 +38,7 @@ Android OS列表：
 - Yun OS
 
 学过的编程语言：
+
 1. Pascal
 2. C
 3. C++
@@ -46,6 +47,7 @@ Android OS列表：
 6. Lua
 
 学过的编程语言：
+
 1. Pascal
 2. C
 3. C++
@@ -97,12 +99,14 @@ Android OS列表：
 ```
 
 ```php
+（php）
 echo "我是onlyongwei。"
 echo "Who you are?"
 echo "This is php."
 ```
 
 ```python
+（python）
 print("Hello,world!")
 print("This is onlyongwei!")
 print("This file is writed by VScode! )
@@ -124,6 +128,8 @@ onlyongwei
 </span>
 
 # 致谢链接：
-  [markdown语法简明手册](https://github.com/gnipbao/markdown-handbook)
-  [辛星markdown教程](http://www.xinxingjiaocheng.com/online/item/61)
-  [markdown语法详解](http://www.ituring.com.cn/article/504)
+[markdown语法简明手册](https://github.com/gnipbao/markdown-handbook)
+  
+[辛星markdown教程](http://www.xinxingjiaocheng.com/online/item/61)
+  
+[markdown语法详解](http://www.ituring.com.cn/article/504)

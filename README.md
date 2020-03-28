@@ -89,7 +89,7 @@ Android OS列表：
 
 插入图片：
 
-![小黄人](http://okqp59hwu.bkt.clouddn.com/%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg)
+![小黄人](https://raw.githubusercontent.com/onlyongwei/ImageHost/master/image/小黄人.png)
 
 # 其他格式
 代码段：

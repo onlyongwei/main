@@ -66,9 +66,9 @@ Android OS列表：
 - [x] C
 - [x] C++
 - [x] Python
-- [x] php
+- [ ] php
 - [x] html
-- [x] Java
+- [ ] Java
 
 | 表头1  | 表头2  | 表头n  |
 | ---- | ---- | ---- |
